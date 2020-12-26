@@ -11,17 +11,22 @@ Aplicación básica de creada con stack MERN.
 # Commands
 
 <p>After you clone this repo:</p>
-<p></p>
+
 ```bash
 $ npm init
 ```
+
 <p>Then you can type:</p>
+
+```bash
+$ npm install
 ```
-$npm start
-```
+
 <p></p>
-```
+
+```bash
 $ npm run dev
 ```
+
 <p>to initiate the server.</p>
 <p>There is no diference between these two commands, because the project is to little.</p>
