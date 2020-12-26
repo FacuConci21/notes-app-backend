@@ -1,32 +1,34 @@
-# notes-app-backend
+## NOTES-APP-BACKEND
 
 Aplicación básica de creada con stack MERN.
 
-# Description
+## Description
 
-<p>Is a little project about a notes manager. You can create, update and delete the notes.</p>
-<p>The frontend can be found at this link: </p>
-<p></p>
+Is a little project about a notes manager. You can create, update and delete the notes.
+The frontend can be found at this link: <br />
+https://github.com/FacuConci21/notes-app-frontend
 
-# Commands
+## Commands
 
-<p>After you clone this repo:</p>
+After you clone this repo:<br/>
 
 ```bash
 $ npm init
 ```
 
-<p>Then you can type:</p>
+Then you can type:<br/>
 
 ```bash
 $ npm install
 ```
 
-<p></p>
-
 ```bash
 $ npm run dev
 ```
 
-<p>to initiate the server.</p>
-<p>There is no diference between these two commands, because the project is to little.</p>
+to initiate the server.<br/>
+There is no diference between these two commands, because the project is to little.
+
+## Stay in touch
+
+- Author (this project) - [Facundo Conci](https://www.linkedin.com/in/facundo-ignacio-conci-caceres/)
